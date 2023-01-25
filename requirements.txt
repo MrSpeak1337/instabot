@@ -1,0 +1,6 @@
+beautifulsoup4==4.9.1
+bs4==0.0.1
+instabot==0.117.0
+logging==0.5
+requests==2.24.0
+urllib3==1.25.11
