@@ -26,7 +26,7 @@ logger.addHandler(ch)
 # Create a bot instance
 try:
     bot = Bot()
-    bot.login(username='memes.god1322', password='Wtfkkt1322')
+    bot.login(username='USERNAME', password='PASSWORD')
     logger.info("Instagram Login Successful")
 except Exception as e:
     logger.error("Error during Instagram login: ", e)
